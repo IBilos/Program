@@ -9,6 +9,6 @@ namespace Program
 	internal class NewClass
 	{	
 		//Dodao sam ispis teksta novo umjesto prazne metode
-		Console.WriteLine("Novo")
+		Console.WriteLine("Novo");
 	}
 }
