@@ -8,6 +8,8 @@ namespace Program
 {
 	internal class NewClass
 	{
+		//Dodao sam ispis teksta novo umjesto prazne metode
+		Console.WriteLine("Novo");
 		static void Main(string[] args)
 		{
 		}
